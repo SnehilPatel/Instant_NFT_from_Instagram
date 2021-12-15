@@ -23,5 +23,4 @@ Once the image is uploaded a json metadata file is created with all the informat
 Now a check is made if the user has enough balance in the deposit contract to mint a NFT.
 If they have enough funds the NFT is minted else it is stored in the queue. Based on whether the NFT was minted or not the graphql database is updated. (UI for queues is still pending)
 
-##Lambda Function project
-https://github.com/iamsahu/nftstorage
+
