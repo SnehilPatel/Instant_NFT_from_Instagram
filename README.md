@@ -1,4 +1,4 @@
-#Insta NFT
+
 The goal of the project is to automate the creation of NFT as soon as you upload something you deem worthy enough to be an NFT. In the long run, I would want to build multiple handlers which would allow users to create NFTs of their posts automatically whenever they post on any social media.
 
 This hack showcases how users can create NFTs automatically when they add a new post on Instagram using the tag #nft.
